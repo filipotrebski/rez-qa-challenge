@@ -1,5 +1,8 @@
 # rez-qa-challenge
 
+To run project run command:
+` npm run cy `
+
 As a QA Engineer we are expected to write automation for features completed by the development team. It is our task to automate both stories One and Two, ensuring we have the proper test coverage before releasing this product. 
 
 QA Directives:
